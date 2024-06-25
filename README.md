@@ -3,20 +3,9 @@
 ## About me:
 Hi 👋, I am Ana. I’m currently an undergraduate Computer Engineering student at UFPB, in Brasil.
 
-</div>
-
-
-<div align="center">
-  <br>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-londres&theme=transparent&bg_color=020b14&border_color=30A3DC&show_icons=true&icon_color=#e7eff9&title_color=#aabade&text_color=#e7eff9&hide_border=true)
-
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ana-londres&layout=compact&bg_color=020b14&border_color=30A3DC&title_color=#aabade&text_color=e7eff9&hide_border=true)
-</div>
-
 <p>&nbsp;</p>
 
-<div style="text-align:center">
+</div>
 
 ## Languages and Tools
 
@@ -24,7 +13,9 @@ Hi 👋, I am Ana. I’m currently an undergraduate Computer Engineering student
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="30"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="55"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="55"/> </a>
 
 <p>&nbsp;</p>
 
@@ -42,21 +33,3 @@ Please feel free to contact me on social media using the badges below.
 </div>
 
 </div>
-
-
-
-
-<!--
-**ana-londres/ana-londres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
